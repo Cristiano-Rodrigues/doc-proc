@@ -1,0 +1,3 @@
+{
+  "value": "Texto do documento:\n\n{}\n\nCom base no conteúdo, forneça um JSON válido sem caracteres de formatação contendo:\n- titulo\n- tipo (entre: Ofício, Contrato, Parecer, Memorando, Outros)\n- orgao_emissor\n- autor\n- resumo_breve\n-lingua\n-tags (um array com no máximo 3 tags). Caso não encontres alguma dessas informações preencha com null"
+}

@@ -1,0 +1,7 @@
+node_modules
+setup/api/apiKey.json
+upload/*.pdf
+metadata/output.json
+eng.traineddata
+por.traineddata
+request.txt
