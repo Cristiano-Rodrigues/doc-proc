@@ -29,3 +29,7 @@ Um módulo para um software de gestão documental. O seu principal objetivo é c
 2 - Abra outro terminal e vá até /frontend e também execute ```npm install``` e depois ```npm run dev```.
 
 3 - Copie o link loggado no terminal e cole no navegador.
+
+### OBS
+
+A versão gratuita do modelo de AI usado neste módulo tem rate limit. Por causa disso, talvez tenha de submeter um documento mais do que uma vez até conseguir processar.
